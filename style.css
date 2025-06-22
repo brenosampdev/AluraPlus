@@ -34,7 +34,7 @@ body {
 /* PRIMEIRA SESSÃO */
 
 .principal {
-    background-image: url("/img/Background.png");
+    background-image: url("./img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
